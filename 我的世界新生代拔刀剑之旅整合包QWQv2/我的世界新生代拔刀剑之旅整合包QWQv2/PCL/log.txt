@@ -1,0 +1,170 @@
+[2:51:11.810] [Application] 程序启动，版本：1.0.6（47）
+[2:51:12.003] [HomeRight] 载入离线头像：Steve
+[2:51:12.046] [Start] 开始执行用户代码
+[2:51:12.107] [Start] 初始化线程池结束
+[2:51:12.111] [Pool] Java 路径：C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[2:51:12.111] [Pool-HomeLeft] 加载推荐源：我的世界中文论坛
+[2:51:12.112] [Pool-HomeLeft] 订阅信息加载完成
+[2:51:12.112] [Pool-HomeLeft] 加载推荐源：Minecraft 吧精品
+[2:51:12.113] [Pool] .minecraft文件夹：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\
+[2:51:12.114] [System] 主题配色：蓝色
+[2:51:12.112] [Pool-HomeLeft] 加载推荐源：Mojang 官方
+[2:51:12.112] [Pool-HomeLeft] 加载推荐源：PCL 推荐
+[2:51:12.121] [Start] 主题加载结束
+[2:51:12.228] [HomeRight] 初始化开始
+[2:51:12.233] [HomeRight] 切换登录方式：Legacy
+[2:51:12.235] [HomeRight] 切换登录页面：Legacy
+[2:51:12.236] [HomeRight] 初始化结束
+[2:51:12.258] [System] 主题配色：蓝色
+[2:51:12.269] [Pool] 预加载版本列表开始
+[2:51:12.269] [Poll] 登录开始
+[2:51:12.269] [Pool] 文件夹列表变更，重载所有版本
+[2:51:12.270] [System] 正版登录（Login）：17692514080@163.com
+[2:51:12.276] [Main] 初始化开始
+[2:51:12.333] [Pool] 发现新版本（51）
+[2:51:12.334] [Pool] 预加载版本列表结束
+[2:51:12.346] [Pool] 发现公告（11）
+[2:51:12.349] [HomeRight] UI线程加载版本列表开始
+[2:51:12.359] [HomeRight] 当前选择的MC版本：1.7.10-Forge10.13.4.1614-1.7.10
+[2:51:12.360] [HomeRight] UI线程加载版本列表结束
+[2:51:12.467] [Start] 初始化结束，总耗时：0.656s
+[2:51:12.553] [Main] 显示弹出提示：[Hint] 原先的 Minecraft 文件夹路径已失效：C:\Users\Administrator\Desktop\我的世界新生代拔刀剑之旅整合包QWQ\.minecraft\
+[2:51:13.312] [Main] 统计页面加载完成
+[2:51:13.400] [Error] 正版登录失败：远程服务器返回错误: (403) 已禁止。
+[2:51:13.403] [Error] 登录失败：正版登录失败，请检查你的邮箱和密码是否正确或等待5分钟再试！
+   在 pcl.modMain.OnlineLogin(String Email, String Pass)
+
+   在 pcl.modMain.PoolLoginRun(LoginInfo Info, Boolean IsShowHint)
+[2:51:13.501] [Main] 显示弹出提示：[Warn] 正版登录失败，请检查你的邮箱和密码是否正确或等待5分钟再试！
+[2:51:13.685] [DownloadLeft] 获取 Minecraft 版本列表成功
+[2:51:13.685] [DownloadLeft] 加载 Minecraft 版本列表信息开始
+[2:51:13.732] [DownloadLeft] 加载 Minecraft 版本列表信息成功
+[2:51:14.042] [Error] 预处理推荐源失败（Minecraft 吧精品）：StartIndex 不能小于 0。参数名: startIndex
+
+   在 pcl.modMain.PoolMainTbDownload()
+[2:51:14.090] [Launch] 正在进行启动前检查
+[2:51:14.097] [Launch] Java路径：C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[2:51:14.097] [Launch] 不需要强制使用 Java 8 启动，跳过版本检查
+[2:51:14.097] [Launch] 正在检查支持库
+[2:51:14.101] [Launch] 开始获取引用表
+[2:51:14.103] [Launch] 读取继承版本Json：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\versions\1.7.10\1.7.10.json
+[2:51:14.103] [Launch] 获取继承版本引用表
+[2:51:14.107] [Launch] 正在检查资源文件
+[2:51:14.107] [Launch] 资源文件：1.7.10
+[2:51:14.138] [Launch] 获取离线登录启动参数
+[2:51:14.140] [Launch] UUID：6bd60a7167e04eff89d7079b4bd130c6
+[2:51:14.144] [Launch] 开始获取引用表
+[2:51:14.145] [Launch] 读取继承版本Json：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\versions\1.7.10\1.7.10.json
+[2:51:14.145] [Launch] 获取继承版本引用表
+[2:51:14.146] [Launch] 删除原Natives
+[2:51:14.177] [Launch] 解压新Natives
+[2:51:14.246] [Launch] 解压的Native文件：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.1\lwjgl-platform-2.9.1-natives-windows.jar
+[2:51:14.259] [Launch] 解压的Native文件：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5-natives-windows.jar
+[2:51:14.280] [Launch] 解压的Native文件：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\tv\twitch\twitch-platform\5.16\twitch-platform-5.16-natives-windows-64.jar
+[2:51:14.576] [Launch] 解压的Native文件：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\tv\twitch\twitch-external-platform\4.5\twitch-external-platform-4.5-natives-windows-64.jar
+[2:51:14.577] [Launch] 处理基准参数字符串
+[2:51:14.578] [Launch] 正在启动游戏进程
+[2:51:14.582] [Launch] Java 路径：C:\Program Files (x86)\Common Files\Oracle\Java\javapath\javaw.exe（8.0.2110.12）
+[2:51:14.583] [Launch] 工作目录：E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\
+[2:51:14.583] [Launch] 启动 Minecraft，版本：1.7.10-Forge10.13.4.1614-1.7.10
+[2:51:14.612] [Launch] 启动脚本（保存为 .bat 文件即可使用）：
+title Minecraft 1.7.10-Forge10.13.4.1614-1.7.10&&set appdata=E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\&&cd /D %appdata%&&"C:\Program Files (x86)\Common Files\Oracle\Java\javapath\javaw.exe" -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Xmn128m -Xmx1024m "-Djava.library.path=E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\versions\1.7.10-Forge10.13.4.1614-1.7.10\1.7.10-Forge10.13.4.1614-1.7.10-natives" -cp "E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\mojang\netty\1.6\netty-1.6.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\google\guava\guava\15.0\guava-15.0.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\versions\1.7.10\1.7.10.jar" net.minecraft.launchwrapper.Launch --username Maple_Leaves --version "1.7.10-Forge10.13.4.1614-1.7.10" --gameDir E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft --assetsDir E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\assets --assetIndex 1.7.10 --uuid 6bd60a7167e04eff89d7079b4bd130c6 --accessToken 6bd60a7167e04eff89d7079b4bd130c6 --userProperties {} --userType Legacy --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height 480 --width 854
+[2:51:14.624] [Minecraft] 开始 Minecraft 日志监控
+[2:51:14.626] [Error] 下载皮肤失败（6bd60a7167e04eff89d7079b4bd130c6）：参数“Start”必须大于 0。
+[2:51:14.650] [HomeRight] 载入离线头像：Steve
+[2:51:14.653] [Launch] 正在等待游戏窗口
+[2:51:15.339] [Minecraft] 错误信息：[02:51:15] [main/ERROR] [FML]: The coremod ruby.bamboo.asm.CorePlugin is requesting minecraft version 1.7.2 and minecraft is 1.7.10. It will be ignored.
+[2:51:17.213] [Minecraft] 错误信息：[02:51:17] [main/WARN] [LiteLoader]: Error parsing manifest entries in 'E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\mods\1.7.10\Baubles-1.7.10-1.0.1.10.jar'
+[2:51:17.214] [Minecraft] 错误信息：[02:51:17] [main/WARN] [LiteLoader]: Error parsing manifest entries in 'E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
+[2:51:17.214] [Minecraft] 错误信息：[02:51:17] [main/WARN] [LiteLoader]: Error parsing manifest entries in 'E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\mods\1.7.10\ForgeMultipart-1.7.10-1.1.0.309-universal.jar'
+[2:51:17.214] [Minecraft] 错误信息：[02:51:17] [main/WARN] [LiteLoader]: Error parsing manifest entries in 'E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.15.jar'
+[2:51:17.283] [System] 直接下载文件成功：http://pcl-1253424809.cosgz.myqcloud.com/push.ini
+[2:51:17.286] [System] 直接下载文件成功：http://pcl-1253424809.cosgz.myqcloud.com/adpush.ini
+[2:51:19.333] [Error] 处理推荐源失败（我的世界中文论坛/图片推荐）：参数“Start”必须大于 0。
+
+   在 pcl.modMain.PoolMainMCBBSDownload()
+[2:51:19.338] [Error] 处理推荐源失败（我的世界中文论坛/文本推荐）：参数“Start”必须大于 0。
+
+   在 pcl.modMain.PoolMainMCBBSDownload()
+[2:51:19.885] [Minecraft] Minecraft 窗口已加载
+[2:51:19.897] [Launch] 正在进行启动后处理
+[2:51:19.898] [Launch] Minecraft 启动成功，剩余内存：19005MB
+[2:51:19.899] [Launch] 启动器已隐藏，将在两分钟后关闭
+[2:51:19.900] [Launch] 启动结束
+[2:51:25.399] [Minecraft] 错误信息：[02:51:25] [Client thread/ERROR] [FML]: The mcmod.info file in [拔刀附属]七宗罪PROJECT_saligia_2.1.0.jar cannot be parsed as valid JSON. It will be ignored
+[2:51:25.400] [Minecraft] 错误信息：com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+[2:51:25.401] [Minecraft] 错误信息：Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+[2:51:25.401] [Minecraft] 错误信息：	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+[2:51:25.401] [Minecraft] 错误信息：[02:51:25] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[2:51:25.402] [Minecraft] 错误信息：java.lang.ArrayIndexOutOfBoundsException: 4497
+[2:51:25.402] [Minecraft] 错误信息：[02:51:25] [Client thread/ERROR] [FML]: There was a problem reading the entry com/moe/allweapon/ItemLoader$Invalid.class in the jar E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\mods\[拔刀附属]万物皆刃allweapon-r2（测试版）.jar - probably a corrupt zip
+[2:51:25.402] [Minecraft] 错误信息：cpw.mods.fml.common.LoaderException: java.lang.ArrayIndexOutOfBoundsException: 4497
+[2:51:25.403] [Minecraft] 错误信息：Caused by: java.lang.ArrayIndexOutOfBoundsException: 4497
+[2:51:25.403] [Minecraft] 错误信息：cpw.mods.fml.common.LoaderException: java.lang.ArrayIndexOutOfBoundsException: 4497
+[2:51:25.404] [Minecraft] 错误信息：Caused by: java.lang.ArrayIndexOutOfBoundsException: 4497
+[2:51:26.416] [Minecraft] 错误信息：[02:51:26] [Client thread/ERROR] [FML]: The mod flammpfeil.slashblade.slasharts (SlashBlade-SlashArts) requires mods [Thaumcraft] to be available
+[2:51:26.619] [Minecraft] 错误信息：[02:51:26] [Client thread/WARN] [FML]: There were errors previously. Not beginning mod initialization phase
+[2:51:27.228] [Minecraft] 错误信息：com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[2:51:27.229] [Minecraft] 错误信息：Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[2:51:27.633] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.633] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.634] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.634] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.634] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.635] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.635] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.635] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.636] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.636] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.636] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.637] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.637] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.637] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.638] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.638] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.638] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.639] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.639] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.639] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.640] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.640] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.640] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.641] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.641] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.642] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.642] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:27.642] [Minecraft] 错误信息：[02:51:27] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.040] [Minecraft] 错误信息：信息: Failed to initialize device Corsair Gaming K70 RGB RAPIDFIRE Keyboard  because of: java.io.IOException: Failed to acquire device (8007001e)
+[2:51:28.244] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.244] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.245] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.245] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.245] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.246] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.246] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.246] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.247] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.247] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.247] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.248] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.248] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.248] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.249] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.249] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.249] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.250] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.250] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.251] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.251] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.252] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.252] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.252] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.253] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.253] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.253] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.254] [Minecraft] 错误信息：[02:51:28] [Client thread/ERROR] [LaunchWrapper]: The jar file E:\BaiduNetdiskDownload\我的世界新生代拔刀剑之旅整合包QWQv2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[2:51:28.653] [Minecraft] 错误信息：[02:51:28] [Client thread/INFO] [STDOUT]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Obfuscation check, please ignore the following errors (if they come up).
+[2:51:31.494] [Minecraft] 错误信息：com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[2:51:31.495] [Minecraft] 错误信息：Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[2:51:35.368] [Minecraft] Minecraft 已退出，返回值：0
+[2:51:35.371] [System] 收到正常关闭指令

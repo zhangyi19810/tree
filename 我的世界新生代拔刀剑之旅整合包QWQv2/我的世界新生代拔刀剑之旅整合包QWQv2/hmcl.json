@@ -1,0 +1,74 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "DIRECT",
+  "theme": "#5c6bc0",
+  "localization": "def",
+  "downloadtype": 1,
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 1024,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": false
+    }
+  },
+  "accounts": [
+    {
+      "clientToken": "d78753a32cf54511a20dea488c805579",
+      "displayName": "Maple_Leaves",
+      "userProperties": {
+        "preferredLanguage": "en-us"
+      },
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5NmYyY2YyZGVlY2RhNDNlNDYyNjg3YjA3NzI4ZDk4NyIsInlnZ3QiOiI2Mjg5ZWUxZjQxMGU0OTcwOWVjYmMyYjc2ZDE5YmRhMyIsInNwciI6IjZiZDYwYTcxNjdlMDRlZmY4OWQ3MDc5YjRiZDEzMGM2IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1OTk4OTg2NDEsImlhdCI6MTU5OTcyNTg0MX0.O9GkvFApD8Gq4rVL37cNcb9euxo0sZU2R4GQyUqRAYw",
+      "type": "yggdrasil",
+      "uuid": "6bd60a7167e04eff89d7079b4bd130c6",
+      "userid": "96f2cf2deecda43e462687b07728d987",
+      "username": "17692514080@163.com"
+    },
+    {
+      "clientToken": "7d9379beb0be424286f2c6d09bf0a06b",
+      "displayName": "Y_zhangyi",
+      "userProperties": {
+        "preferredLanguage": "zh-cn",
+        "registrationCountry": "CN"
+      },
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkNTc3MDQ0MzM2NGRiY2E4NjM2ZTFiZTMxZmQyMmU1MyIsInlnZ3QiOiI0ZTRkYTY4YTU1MmQ0YTAyODAwOTM1MjY2M2UyMzdjZCIsInNwciI6ImZlZTk1NTQwMjBiNTQyZmQ5MWVlMGRjN2JlMTMxODFmIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MjI3MTU4MTQsImlhdCI6MTYyMjU0MzAxNH0.VViV2YgBB4V95pucD7wkLHihxaRVJ7FnvstIpHUf228",
+      "type": "yggdrasil",
+      "uuid": "fee9554020b542fd91ee0dc7be13181f",
+      "userid": "d5770443364dbca8636e1be31fd22e53",
+      "username": "1553921732@qq.com"
+    }
+  ],
+  "selectedAccount": "1553921732@qq.com:Y_zhangyi",
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 500,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0
+}
